@@ -1,4 +1,4 @@
-# Sinden Lightgun SNES bezel pack for Snes9x Lightgun Edition.
+# Lightgun SNES bezel pack for Snes9x designed for use with Sinden Lightguns.
 
 This SNES bezel pack has been created solely for use with the Sinden lightgun. PLEASE DO NOT DISTRIBUTE IT!
 
