@@ -6,9 +6,13 @@ Bezel pack created by Prof_gLX
 
 # Shoutouts to:
 darkphoenixfox (Phoenixfox, fox, JCT) for the code to make the GUI clickthrough and who made a sweet launcher for endusers
+
 Titchgamer with whom I've worked on countless projects since the start 
+
 Andy Sinden who created the lightgun
+
 The Bezel Pack Project, from whom I repurposed bezels for this pack
+
 All other contributers in the Sinden Discord
 
 # Installation
