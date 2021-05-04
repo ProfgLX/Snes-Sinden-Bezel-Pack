@@ -2,20 +2,16 @@
 
 This SNES bezel pack has been created solely for use with the Sinden lightgun. PLEASE DO NOT DISTRIBUTE IT!
 
-Bezel pack created by Prof_gLX
+Bezel pack created by **Prof_gLX**
 
-# Shoutouts to:
-darkphoenixfox (Phoenixfox, fox, JCT) for the code to make the GUI clickthrough and who made a sweet launcher for endusers
+## Shoutouts to:
+- **darkphoenixfox** (Phoenixfox, fox, JCT) for the code to make the GUI clickthrough and who made a sweet launcher for endusers
+- **Titchgamer** with whom I've worked on countless projects since the start 
+- **Andy Sinden** who created the lightgun
+- **The Bezel Pack Project** from whom I repurposed bezels for this pack
+- All other contributers in the Sinden Discord
 
-Titchgamer with whom I've worked on countless projects since the start 
-
-Andy Sinden who created the lightgun
-
-The Bezel Pack Project, from whom I repurposed bezels for this pack
-
-All other contributers in the Sinden Discord
-
-# Installation
+## Installation
 
 This pack is designed to work with any standard resolutions but has only been tested fully on 1920x1080.
 
